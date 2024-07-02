@@ -1,0 +1,1499 @@
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Exception drawing Marshal: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B604A392] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Map.MapUpdate_Patch4 (Verse.Map)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+Verse.Root_Play:Update ()
+
+Root level exception in OnGUI(): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 31D5DFB9] Duplicate stacktrace, see ref for original
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.OnGUI_Patch1 (Verse.Root)
